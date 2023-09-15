@@ -16,8 +16,8 @@
 .env.development.local
 .env.test.local
 .env.production.local
+node_modules/.cache/babel-loader/
 .eslintcache
-
 npm-debug.log*
 yarn-debug.log*
 yarn-error.log*
